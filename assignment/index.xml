@@ -14,7 +14,7 @@
       
       <guid>https://awaisaslam186.github.io/assignment/os/</guid>
       <description>Write Your Own 64-bit Operating System Kernel From ScratchYou can find full code on my Git repo https://github.com/awaisshah2280/myFirstOS.git.
-You can find code of this static site on repo https://github.com/awaisshah2280/mysite.git
+You can find code of this static site on repo https://github.com/awaisaslam186/awaisaslam186.git
 Prerequisites A text editor such as VS Code. Docker for creating our build-environment. Qemu for emulating our operating system.  Remember to add Qemu to the path so that you can access it from your command-line.</description>
     </item>
     
